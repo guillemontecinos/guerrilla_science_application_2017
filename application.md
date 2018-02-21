@@ -1,5 +1,5 @@
 # Guerrilla Science Application 2018
-*Sofa Suazo & Guillermo Montecinos*
+*Sofía Suazo & Guillermo Montecinos*
 
 ## 1. Tell us about your proposed project including the area(s) of science you will feature.
 
