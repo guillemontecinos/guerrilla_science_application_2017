@@ -11,7 +11,8 @@ The development of this project will require the acquisition of some technical e
 - 2 ViewSonic PG603X 3600-Lumen XGA DLP Projectors	$1,000.00
 - Installation’s structures costs						$800.00
 - Max/Msp Full Licence							$400.00
-- 3 Nikon D7000 DSLR Camera	(for 3 stations)			$2,100.00
+- [3 Nikon D7000 DSLR Camera	(for 3 stations)			$2,100.00](https://www.bhphotovideo.com/c/product/927106-GREY/nikon_d7100_dslr_camera_body.html)
+- [3 lenses Tokina 100mm f/2.8 AT-X M100				$1,050.00](https://www.bhphotovideo.com/c/product/393446-REG/Tokina_ATXAF100PRON_100mm_f_2_8_AT_X_M100.html)
 - 1 iPad										$500.00
 - General Budget								$5,000.00
 
