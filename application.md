@@ -13,8 +13,9 @@ The development of this project will require the acquisition of some technical e
 - Max/Msp Full Licence							$400.00
 - 3 Nikon D7000 DSLR Camera	(for 3 stations)			$2,100.00
 - 1 iPad										$500.00
-- General Budget								$5,000.00<br>
+- General Budget								$5,000.00
 
+### Authorizations
 As this project will be documented by Guerrilla Science and by us, it is relevant to get written permission from the participants to use their photographic and video image for further promotion or presentation of our work, as well as authorization from Life in a Bottle Festival to use their logo and make video recording inside the festival space.
 
 ## 3. What is your approach to collaboration with someone outside your field? If you have any preselected partners, or requests for matching, also include them here. 
